@@ -7,7 +7,8 @@ sudo apt-get install nginx
 ````
 
 Run the code above below to install mysql
-```sudo apt-get install mysql-server
+```
+sudo apt-get install mysql-server
 ```
 
 The code above it's a step of secure in mysql
