@@ -1,11 +1,10 @@
 # environment-installation-ubuntu-18.04
 A process to  install a PHP's environment at Ubuntu 18.04
 
-Run the code above below to install nginx
+Run the code above below to install nginx - see [How to configure Nginx](https://github.com/paulomendesdigital/how-to-configure-nginx)
 ```
 sudo apt-get install nginx
 ````
-See [How to configure Nginx](https://github.com/paulomendesdigital/how-to-configure-nginx)
 
 Run the code above below to install mysql
 ```
