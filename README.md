@@ -26,7 +26,7 @@ Install phpMyAdmin
 sudo apt-get install phpmyadmin
 ```
 
-Insert the code below in the default file at /etc/nginx/sites-available/default
+To configue phpMyAdmin, insert the code below in the default file at /etc/nginx/sites-available/default
 ```
 location /phpmyadmin {
    root /usr/share/;
