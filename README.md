@@ -5,6 +5,7 @@ Run the code above below to install nginx
 ```
 sudo apt-get install nginx
 ````
+See [How to configure Nginx](https://github.com/paulomendesdigital/how-to-configure-nginx)
 
 Run the code above below to install mysql
 ```
