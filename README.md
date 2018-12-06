@@ -16,12 +16,12 @@ The code above it's a step of secure in mysql
 mysql_secure_installation
 ```
 
-Install php with fpm (require to nginx), mysql (connection with mysql), mbstring(require to laravel) and xml(require to laravel)
+Install **php 7** with fpm (require to nginx), mysql (connection with mysql), mbstring(require to laravel) and xml(require to laravel)
 ```
 sudo apt-get install php-fpm php-mysql php-mbstring php-xml
 ```
 
-If you want install php 5.6 run the codes below
+If you want install **php 5.6** run the codes below
 ```
 sudo add-apt-repository ppa:ondrej/php
 sudo apt-get update
