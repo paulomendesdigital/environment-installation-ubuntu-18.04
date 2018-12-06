@@ -21,6 +21,13 @@ Install php with fpm (require to nginx), mysql (connection with mysql), mbstring
 sudo apt-get install php-fpm php-mysql php-mbstring php-xml
 ```
 
+If you want install php 5.6 run the codes below
+```
+sudo add-apt-repository ppa:ondrej/php
+sudo apt-get update
+sudo apt-get install php5.6-fpm php5.6-mysql php5.6-mbstring php5.6-xml
+```
+
 Install phpMyAdmin
 ```
 sudo apt-get install phpmyadmin
